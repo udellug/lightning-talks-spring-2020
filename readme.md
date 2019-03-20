@@ -4,3 +4,4 @@
 - Devon Pirestani: History of UNIX and also filesystem and also Ryan Geary
 - J Reynolds: clear
 - Alena Gusakov: x86 assembly language HELL
+- James Skripchuk: Artifical Neural Networks Explaned Really Fast
