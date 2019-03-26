@@ -5,3 +5,4 @@
 - J Reynolds: clear
 - Alena Gusakov: x86 assembly language HELL and also crash course on reverse engineering
 - James Skripchuk: Artifical Neural Networks Explaned Really Fast
+- Andrew Alberding: Arch, Pacman, and the Kernel itself
