@@ -7,3 +7,4 @@
 - James Skripchuk: Artifical Neural Networks Explaned Really Fast
 - Jared Glaser: DIY Mech Keyboards (maybe something else)
 - Andrew Alberding: Arch, Pacman, and the Kernel itself
+- Sam Calvert: The Wonderful World of Brainfuck
