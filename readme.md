@@ -9,3 +9,4 @@
 - Andrew Alberding: Arch, Pacman, and the Kernel itself
 - Sam Calvert: The Wonderful World of Brain~~fuck~~ frick
 - Anna Schaal: dev/urandom vs dev/random
+- Collin Clark: ed(1)
