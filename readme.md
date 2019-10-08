@@ -2,3 +2,4 @@
 
 - Matt Zelinsky: crontab
 - Alena Gusakov: quantumquantumquantumquantumquantum (my impression of an excited electron)
+- J. Reynolds: Clear
