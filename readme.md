@@ -3,3 +3,4 @@
 - Matt Zelinsky: crontab
 - Alena Gusakov: quantumquantumquantumquantumquantum (my impression of an excited electron)
 - J. Reynolds: Clear
+- Jared Glaser: Probably RAID and Type 1 / Type 2 Hypervisors
