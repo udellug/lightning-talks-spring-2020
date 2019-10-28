@@ -5,3 +5,4 @@
 - J. Reynolds: Clear
 - Jared Glaser: Probably RAID and Type 1 / Type 2 Hypervisors
 - Landon Jones: GEF
+- Micah Pope: LAMP
