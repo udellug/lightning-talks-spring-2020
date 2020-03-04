@@ -1,9 +1,3 @@
-# udellug lightning talks (5 to 10 minutes) for October 28th, 2019
+# udellug lightning talks (5 to 10 minutes) for April 6th, 2020
 
-- Matt Zelinsky: Django
-- Alena Gusakov: quantumquantumquantumquantumquantum (my impression of an excited electron)
-- J. Reynolds: Clear
-- Jared Glaser: Probably RAID and Type 1 / Type 2 Hypervisors
-- Landon Jones: GEF
-- Micah Pope: LAMP
-- Ryan Geary: Window Managers
+- Ryan Geary: `rsync`
