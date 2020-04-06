@@ -4,3 +4,4 @@
 - Joy Kitson: Shebangs (`#!`s)
 - Collin Reilly Clark: How to escape a docker container, or: the joys and woes of cleaning up a rootkit you installed on your own computer
 - Sam Calvert: Why rclone is better than rsync
+- Anna Schaal: Jeep Hack 
